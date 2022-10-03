@@ -1,0 +1,13 @@
+.fikum{
+    text-align:center;
+    border:solid;
+    background: linear-gradient(9deg, white, gray);
+    border-radius:9px;
+    height: 100px;
+}
+body{
+    background-color: gray;
+    background-size:no-repeat center;
+    text-align:center;
+    
+}
